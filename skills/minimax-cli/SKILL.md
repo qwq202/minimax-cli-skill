@@ -1,6 +1,7 @@
 ---
-name: "MiniMax CLI"
-description: Teach users and agents how to use MiniMax CLI (`mmx`): installation, authentication, Token Plan quota checks, command discovery, flags, examples, and troubleshooting for text, image, video, speech, music, search, vision, config, and file commands. Use this skill when the user asks how to use MiniMax CLI, wants command examples, needs help choosing the right `mmx` command, or wants to understand MiniMax CLI behavior.
+name: minimax-cli
+description: "Teach users and agents how to use MiniMax CLI mmx for installation, authentication, Token Plan quota checks, command discovery, flags, examples, and troubleshooting."
+license: MIT
 ---
 
 # MiniMax CLI
