@@ -1,5 +1,7 @@
 # MiniMax CLI Skill
 
+[![skills.sh](https://skills.sh/b/qwq202/minimax-cli-skill)](https://skills.sh/qwq202/minimax-cli-skill)
+
 This repository contains a Codex/Agent skill named **minimax-cli**, displayed as **MiniMax CLI**.
 
 Its purpose is to teach users and agents how to use the MiniMax `mmx` command-line tool: installation, authentication, quota checks, command selection, common flags, examples, and troubleshooting.
@@ -14,7 +16,13 @@ The skill is intentionally instructional. It helps an agent explain the right co
 ## Install
 
 ```bash
-npx skills add qwq202/minimax-cli-skill
+npx skills add qwq202/minimax-cli-skill --skill minimax-cli
+```
+
+For GitHub CLI's Agent Skills support:
+
+```bash
+gh skill install qwq202/minimax-cli-skill
 ```
 
 ## Source Documentation
