@@ -1,0 +1,6 @@
+interface:
+  display_name: "MiniMax CLI"
+  short_description: "Learn and explain MiniMax CLI commands"
+  default_prompt: "Use $MiniMax CLI to teach me the right mmx command for my MiniMax task."
+policy:
+  allow_implicit_invocation: true
